@@ -1,5 +1,5 @@
 # [Bootstrap Website Kick Starter](http://kickstarterkits.iamprogrammer.lk/p/bootstrapwebsitekickstarter.html)
-Kick-start boilerplate for bootstrap website.'[Bootstrap Website Kick Starter](http://kickstarterkits.iamprogrammer.lk/p/bootstrapwebsitekickstarter.html)' helps you to build fast, robust, and adaptable web apps or sites.
+Kick-start boilerplate for bootstrap website. '[Bootstrap Website Kick Starter](http://kickstarterkits.iamprogrammer.lk/p/bootstrapwebsitekickstarter.html)' helps you to build fast, robust, and adaptable web apps or sites.
 
 
 ## Built With
