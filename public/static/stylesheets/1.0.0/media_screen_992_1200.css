@@ -4,15 +4,11 @@
   * Licensed under MIT (https://github.com/KickStarterKits/BootstrapWebsiteKickStarter/blob/master/license.md)
   */
 
-.error_message {
-  color: #ce4844;
-  margin-bottom: 5px;
-  font-size: 18px;
-  padding: 20px;
-  margin: 20px 0;
-  border: 1px solid #eee;
-  border-left-width: 5px;
-  border-radius: 3px;
-  border-left-color: #ce4844;
-  background-color: white;
+/*!
+  * Medium devices (desktops, 992px and up)
+  * @media (min-width: @screen-md-min) and (max-width: @screen-md-max)
+  */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+  
 }
