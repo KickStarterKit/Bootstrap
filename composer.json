@@ -1,0 +1,16 @@
+{
+  "name": "kickstarterkits/bootstrapwebsitekickstarter",
+  "description": "Kick-start boilerplate for bootstrap website.",
+  "keywords": ["Bootstrap Website Kick Starter", "Starter Kit", "Bootstrap Boilerplate"],
+  "homepage": "http://kickstarterkits.iamprogrammer.lk/p/bootstrapwebsitekickstarter.html",
+  "authors": [
+    {
+      "name": "IamProgrammerlk",
+      "email": "iamprogrammerlk@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/KickStarterKits/BootstrapWebsiteKickStarter/issues"
+  },
+  "license": "MIT"
+}
