@@ -16,8 +16,8 @@ A basic __Bootstrap Website Kick Starter__ initially looks something like this:
 ```
 BootstrapWebsiteKickStarter
 ├── private
-|   └── vendor
-│       └── .htaccess
+|   ├── vendor
+│   └── .htaccess
 ├── public
 |   ├── error_pages
 │   |   ├── error_page_401.html
@@ -54,6 +54,7 @@ BootstrapWebsiteKickStarter
 |   ├── favicon.png
 |   ├── index.html
 |   └── robots.txt
+├── composer.json
 ├── contributing.md
 ├── license.md
 └── readme.md
@@ -66,7 +67,7 @@ Several quick start options are available:
 
 - [Download the latest release.](https://github.com/KickStarterKits/BootstrapWebsiteKickStarter/archive/v4.0.0.zip)
 - Clone the repo: `git clone https://github.com/KickStarterKits/BootstrapWebsiteKickStarter.git`
-
+- Install with [Composer](https://getcomposer.org): `composer require kickstarterkits/bootstrapwebsitekickstarter`
 
 ## Bugs and feature requests
 
